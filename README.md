@@ -8,8 +8,8 @@ This Flutter project demonstrates how to implement Light and Dark Mode themes. U
 - **Simple UI**: A user-friendly interface with smooth transitions between themes.
   
 ## Screenshots
-https://github.com/RAHUL277227/Light_Dart_App/blob/main/iphone-x-mockup%20(1).png
-https://github.com/RAHUL277227/Light_Dart_App/blob/main/iphone-x-mockup.png
+![App Demo](https://github.com/RAHUL277227/Light_Dart_App/blob/main/iphone-x-mockup%20(1).png)
+![App Demo](https://github.com/RAHUL277227/Light_Dart_App/blob/main/iphone-x-mockup.png)
   
 
 ## Tech Stack
