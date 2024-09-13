@@ -7,8 +7,10 @@ This Flutter project demonstrates how to implement Light and Dark Mode themes. U
 - **Auto-Sync with System Theme**: Automatically changes the app theme based on your system's theme settings.
 - **Simple UI**: A user-friendly interface with smooth transitions between themes.
   
-## Video Demo
-Check out the video demo of the app in action:
+## Screenshots
+https://github.com/RAHUL277227/Light_Dart_App/blob/main/iphone-x-mockup%20(1).png
+https://github.com/RAHUL277227/Light_Dart_App/blob/main/iphone-x-mockup.png
+  
 
 ## Tech Stack
 - **Flutter**: The app is built entirely in Flutter.
